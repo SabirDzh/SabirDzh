@@ -1,4 +1,4 @@
-<h1 align="center">Sabir</h1>
+<h1 align="center">Backend Developer</h1>
 <p align="center"><strong>Backend Developer</strong> focused on building reliable APIs, async pipelines, and data-driven services.</p>
 <p align="center">Python • FastAPI • PostgreSQL • Kafka • RabbitMQ • Redis • Docker</p>
 
