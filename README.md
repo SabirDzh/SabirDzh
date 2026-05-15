@@ -56,7 +56,7 @@ Backend API for online education consultations built on **ASP.NET Core (.NET 10)
 ### Backend
 
 - **Languages:** Python 3.11+, C# / .NET 10 (ASP.NET Core Web API).
-- **Frameworks:** FastAPI (async I/O, dependency injection, Pydantic v2), ASP.NET Core (EF Core, FluentValidation, controllers + DTO records, ProblemDetails, Serilog).
+- **Frameworks:** FastAPI (async I/O, dependency injection, Pydantic v2, SqlAlchemy, Alembic), ASP.NET Core (EF Core, FluentValidation, controllers + DTO records, ProblemDetails, Serilog).
 - **API design:** REST + OpenAPI, OIDC/OAuth2 (Auth Code + PKCE, Client Credentials, refresh rotation), JWT/JWKS, GraphQL.
 - **Architecture:** modular monolith with bounded contexts, layered/clean architecture, explicit service boundaries, separation of availability/booking/scheduling concerns, idempotent handlers, default-deny security posture, `ProblemDetails` error contracts.
 
