@@ -1,5 +1,5 @@
 <h1 align="center">Backend Developer</h1>
-<p align="center"><strong>Backend Engineer</strong> — Python / C# • OAuth2 / OIDC • Distributed systems & event pipelines</p>
+<p align="center"><strong>Backend Developer</strong> — Python / C# • OAuth2 / OIDC • Distributed systems & event pipelines</p>
 <p align="center">FastAPI • ASP.NET Core • PostgreSQL • Redis • Kafka • RabbitMQ • Docker • Kubernetes</p>
 
 <p align="center">
